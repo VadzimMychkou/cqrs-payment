@@ -1,0 +1,15 @@
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/command/OrderAggregate.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/core/data/OrderEntity.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/command/commands/ApproveOrderCommand.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/query/OrderEventsHandler.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/command/rest/OrdersCommandController.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/core/events/OrderCreatedEvent.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/command/commands/RejectOrderCommand.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/saga/OrderSaga.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/core/events/OrderApprovedEvent.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/command/CreateOrderCommand.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/core/events/OrderRejectedEvent.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/core/data/OrderRepository.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/command/rest/CreateOrderRestModel.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/OrdersServiceApplication.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/OrdersService/src/main/java/com/correct/trajectory/OrdersService/core/model/OrderStatus.java

@@ -1,0 +1,16 @@
+com/correct/trajectory/core/commands/ReserveProductCommand$ReserveProductCommandBuilder.class
+com/correct/trajectory/core/events/ProductReservationCancelledEvent$ProductReservationCancelledEventBuilder.class
+com/correct/trajectory/core/PaymentDetails.class
+com/correct/trajectory/core/commands/ProcessPaymentCommand$ProcessPaymentCommandBuilder.class
+com/correct/trajectory/core/PaymentProcessedEvent.class
+com/correct/trajectory/core/FetchUserPaymentDetailsQuery.class
+com/correct/trajectory/core/User.class
+com/correct/trajectory/core/commands/CancelProductReservationCommand.class
+com/correct/trajectory/core/commands/ProcessPaymentCommand.class
+com/correct/trajectory/core/commands/CancelProductReservationCommand$CancelProductReservationCommandBuilder.class
+com/correct/trajectory/core/commands/ReserveProductCommand.class
+com/correct/trajectory/core/events/ProductReservedEvent.class
+com/correct/trajectory/core/events/ProductReservationCancelledEvent.class
+com/correct/trajectory/core/events/ProductReservedEvent$ProductReservedEventBuilder.class
+com/correct/trajectory/core/User$UserBuilder.class
+com/correct/trajectory/core/PaymentDetails$PaymentDetailsBuilder.class

@@ -1,0 +1,17 @@
+com/correct/trajectory/OrdersService/command/rest/OrdersCommandController.class
+com/correct/trajectory/OrdersService/core/events/OrderCreatedEvent.class
+com/correct/trajectory/OrdersService/command/commands/RejectOrderCommand.class
+com/correct/trajectory/OrdersService/core/model/OrderStatus.class
+com/correct/trajectory/OrdersService/saga/OrderSaga$1.class
+com/correct/trajectory/OrdersService/command/CreateOrderCommand.class
+com/correct/trajectory/OrdersService/core/data/OrderRepository.class
+com/correct/trajectory/OrdersService/core/events/OrderRejectedEvent.class
+com/correct/trajectory/OrdersService/core/events/OrderApprovedEvent.class
+com/correct/trajectory/OrdersService/OrdersServiceApplication.class
+com/correct/trajectory/OrdersService/saga/OrderSaga.class
+com/correct/trajectory/OrdersService/query/OrderEventsHandler.class
+com/correct/trajectory/OrdersService/command/commands/ApproveOrderCommand.class
+com/correct/trajectory/OrdersService/command/rest/CreateOrderRestModel.class
+com/correct/trajectory/OrdersService/command/CreateOrderCommand$CreateOrderCommandBuilder.class
+com/correct/trajectory/OrdersService/command/OrderAggregate.class
+com/correct/trajectory/OrdersService/core/data/OrderEntity.class

@@ -1,0 +1,7 @@
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/core/src/main/java/com/correct/trajectory/core/PaymentDetails.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/core/src/main/java/com/correct/trajectory/core/User.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/core/src/main/java/com/correct/trajectory/core/PaymentProcessedEvent.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/core/src/main/java/com/correct/trajectory/core/events/ProductReservedEvent.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/core/src/main/java/com/correct/trajectory/core/commands/ReserveProductCommand.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/core/src/main/java/com/correct/trajectory/core/FetchUserPaymentDetailsQuery.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/core/src/main/java/com/correct/trajectory/core/commands/ProcessPaymentCommand.java

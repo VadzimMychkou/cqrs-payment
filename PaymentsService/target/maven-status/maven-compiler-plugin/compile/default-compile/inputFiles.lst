@@ -1,0 +1,5 @@
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/PaymentsService/src/main/java/com/appsdeveloperblog/paymentservice/events/PaymentEventsHandler.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/PaymentsService/src/main/java/com/appsdeveloperblog/paymentservice/PaymentserviceApplication.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/PaymentsService/src/main/java/com/appsdeveloperblog/paymentservice/data/PaymentEntity.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/PaymentsService/src/main/java/com/appsdeveloperblog/paymentservice/command/PaymentAggregate.java
+/Users/vadzimmychkou/Development/Java/education-proj/ms-cqrs/PaymentsService/src/main/java/com/appsdeveloperblog/paymentservice/data/PaymentRepository.java

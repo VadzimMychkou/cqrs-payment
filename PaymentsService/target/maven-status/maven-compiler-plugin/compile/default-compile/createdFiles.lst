@@ -1,0 +1,5 @@
+com/appsdeveloperblog/paymentservice/events/PaymentEventsHandler.class
+com/appsdeveloperblog/paymentservice/data/PaymentRepository.class
+com/appsdeveloperblog/paymentservice/command/PaymentAggregate.class
+com/appsdeveloperblog/paymentservice/PaymentserviceApplication.class
+com/appsdeveloperblog/paymentservice/data/PaymentEntity.class
